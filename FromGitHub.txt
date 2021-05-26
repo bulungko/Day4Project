@@ -1,4 +1,2 @@
 This is the file I added directly from github.com to simulate my
-co-worker pushed this changes to this repo so I can
-
-Added some changes from local
+This is my co-worker adding changes and pushing to remote.
